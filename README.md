@@ -1,5 +1,5 @@
 # AgenticSeek: Private, Local Manus Alternative.
-
+Cavalheiros2 esteve aqui!!!
 <p align="center">
 <img align="center" src="./media/agentic_seek_logo.png" width="300" height="300" alt="Agentic Seek Logo">
 <p>
